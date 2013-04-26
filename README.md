@@ -1,2 +1,2 @@
-firefoxforanroidtranslation
+Firefox for Anroid Translation
 ===========================
