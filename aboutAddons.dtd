@@ -1,0 +1,12 @@
+﻿<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutAddons.title2                     "অতিরিক্ত সামগ্রী">
+<!ENTITY aboutAddons.header2                    "আপনার অতিরিক্ত সামগ্রী">
+<!ENTITY aboutAddons.options                    "বিকল্প">
+
+<!ENTITY addonAction.enable                     "সক্রিয় করুন">
+<!ENTITY addonAction.disable                    "নিষ্ক্রিয় করুন">
+<!ENTITY addonAction.uninstall                  "অপসারণ">
+<!ENTITY addonAction.undo                       "পূর্বাবস্থা">
